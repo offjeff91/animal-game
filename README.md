@@ -1,0 +1,1 @@
+A simple drag and drop game for education purposes
